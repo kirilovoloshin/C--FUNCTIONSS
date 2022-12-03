@@ -1,0 +1,94 @@
+F:\Epam_Homework\task_4\function1\Function.Tests\bin\Debug\net48\NUnit3.TestAdapter.dll
+F:\Epam_Homework\task_4\function1\Function.Tests\bin\Debug\net48\NUnit3.TestAdapter.pdb
+F:\Epam_Homework\task_4\function1\Function.Tests\bin\Debug\net48\nunit.engine.dll
+F:\Epam_Homework\task_4\function1\Function.Tests\bin\Debug\net48\nunit.engine.api.dll
+F:\Epam_Homework\task_4\function1\Function.Tests\bin\Debug\net48\Function.Tests.dll
+F:\Epam_Homework\task_4\function1\Function.Tests\bin\Debug\net48\Function.Tests.pdb
+F:\Epam_Homework\task_4\function1\Function.Tests\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Epam_Homework\task_4\function1\Function.Tests\bin\Debug\net48\nunit.framework.dll
+F:\Epam_Homework\task_4\function1\Function.Tests\bin\Debug\net48\Function.dll
+F:\Epam_Homework\task_4\function1\Function.Tests\bin\Debug\net48\Function.pdb
+F:\Epam_Homework\task_4\function1\Function.Tests\obj\Debug\net48\Function.Tests.csproj.AssemblyReference.cache
+F:\Epam_Homework\task_4\function1\Function.Tests\obj\Debug\net48\Function.Tests.csproj.SuggestedBindingRedirects.cache
+F:\Epam_Homework\task_4\function1\Function.Tests\obj\Debug\net48\Function.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\Epam_Homework\task_4\function1\Function.Tests\obj\Debug\net48\Function.Tests.AssemblyInfoInputs.cache
+F:\Epam_Homework\task_4\function1\Function.Tests\obj\Debug\net48\Function.Tests.AssemblyInfo.cs
+F:\Epam_Homework\task_4\function1\Function.Tests\obj\Debug\net48\Function.Tests.csproj.CoreCompileInputs.cache
+F:\Epam_Homework\task_4\function1\Function.Tests\obj\Debug\net48\Function.Tests.csproj.CopyComplete
+F:\Epam_Homework\task_4\function1\Function.Tests\obj\Debug\net48\Function.Tests.dll
+F:\Epam_Homework\task_4\function1\Function.Tests\obj\Debug\net48\Function.Tests.pdb
+A:\Repositories\4-th course\function\Function.Tests\bin\Debug\net48\NUnit3.TestAdapter.dll
+A:\Repositories\4-th course\function\Function.Tests\bin\Debug\net48\NUnit3.TestAdapter.pdb
+A:\Repositories\4-th course\function\Function.Tests\bin\Debug\net48\nunit.engine.dll
+A:\Repositories\4-th course\function\Function.Tests\bin\Debug\net48\nunit.engine.api.dll
+A:\Repositories\4-th course\function\Function.Tests\bin\Debug\net48\Function.Tests.dll
+A:\Repositories\4-th course\function\Function.Tests\bin\Debug\net48\Function.Tests.pdb
+A:\Repositories\4-th course\function\Function.Tests\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+A:\Repositories\4-th course\function\Function.Tests\bin\Debug\net48\nunit.framework.dll
+A:\Repositories\4-th course\function\Function.Tests\bin\Debug\net48\Function.dll
+A:\Repositories\4-th course\function\Function.Tests\bin\Debug\net48\Function.pdb
+A:\Repositories\4-th course\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.AssemblyReference.cache
+A:\Repositories\4-th course\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.SuggestedBindingRedirects.cache
+A:\Repositories\4-th course\function\Function.Tests\obj\Debug\net48\Function.Tests.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\4-th course\function\Function.Tests\obj\Debug\net48\Function.Tests.AssemblyInfoInputs.cache
+A:\Repositories\4-th course\function\Function.Tests\obj\Debug\net48\Function.Tests.AssemblyInfo.cs
+A:\Repositories\4-th course\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.CoreCompileInputs.cache
+A:\Repositories\4-th course\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.CopyComplete
+A:\Repositories\4-th course\function\Function.Tests\obj\Debug\net48\Function.Tests.dll
+A:\Repositories\4-th course\function\Function.Tests\obj\Debug\net48\Function.Tests.pdb
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\bin\Debug\net48\NUnit3.TestAdapter.dll
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\bin\Debug\net48\NUnit3.TestAdapter.pdb
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\bin\Debug\net48\nunit.engine.dll
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\bin\Debug\net48\nunit.engine.api.dll
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\bin\Debug\net48\Function.Tests.dll
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\bin\Debug\net48\Function.Tests.pdb
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\bin\Debug\net48\nunit.framework.dll
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\bin\Debug\net48\Function.dll
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\bin\Debug\net48\Function.pdb
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.AssemblyReference.cache
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.SuggestedBindingRedirects.cache
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\obj\Debug\net48\Function.Tests.GeneratedMSBuildEditorConfig.editorconfig
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\obj\Debug\net48\Function.Tests.AssemblyInfoInputs.cache
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\obj\Debug\net48\Function.Tests.AssemblyInfo.cs
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.CoreCompileInputs.cache
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.CopyComplete
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\obj\Debug\net48\Function.Tests.dll
+A:\university\fourth year first semester\ASP.NET\function\Function.Tests\obj\Debug\net48\Function.Tests.pdb
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\bin\Debug\net48\nunit.engine.dll
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\bin\Debug\net48\Function.Tests.dll
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\bin\Debug\net48\Function.Tests.pdb
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\bin\Debug\net48\nunit.framework.dll
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\bin\Debug\net48\Function.dll
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\bin\Debug\net48\Function.pdb
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\obj\Debug\net48\Function.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\obj\Debug\net48\Function.Tests.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\obj\Debug\net48\Function.Tests.AssemblyInfo.cs
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.CopyComplete
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\obj\Debug\net48\Function.Tests.dll
+C:\Users\admin\Desktop\csharp\function\function\Function.Tests\obj\Debug\net48\Function.Tests.pdb
+C:\Users\Администратор\Desktop\function\Function.Tests\obj\Debug\net48\Function.Tests.dll
+C:\Users\Администратор\Desktop\function\Function.Tests\obj\Debug\net48\Function.Tests.pdb
+C:\Users\Администратор\Desktop\function\Function.Tests\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Администратор\Desktop\function\Function.Tests\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Администратор\Desktop\function\Function.Tests\bin\Debug\net48\nunit.engine.dll
+C:\Users\Администратор\Desktop\function\Function.Tests\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Администратор\Desktop\function\Function.Tests\bin\Debug\net48\Function.Tests.dll
+C:\Users\Администратор\Desktop\function\Function.Tests\bin\Debug\net48\Function.Tests.pdb
+C:\Users\Администратор\Desktop\function\Function.Tests\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Администратор\Desktop\function\Function.Tests\bin\Debug\net48\nunit.framework.dll
+C:\Users\Администратор\Desktop\function\Function.Tests\bin\Debug\net48\Function.dll
+C:\Users\Администратор\Desktop\function\Function.Tests\bin\Debug\net48\Function.pdb
+C:\Users\Администратор\Desktop\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\function\Function.Tests\obj\Debug\net48\Function.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\function\Function.Tests\obj\Debug\net48\Function.Tests.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\function\Function.Tests\obj\Debug\net48\Function.Tests.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\function\Function.Tests\obj\Debug\net48\Function.Tests.csproj.CopyComplete

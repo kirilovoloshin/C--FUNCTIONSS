@@ -1,0 +1,45 @@
+F:\Epam_Homework\task_4\function1\Function\bin\Debug\net48\Function.dll
+F:\Epam_Homework\task_4\function1\Function\bin\Debug\net48\Function.pdb
+F:\Epam_Homework\task_4\function1\Function\obj\Debug\net48\Function.csproj.AssemblyReference.cache
+F:\Epam_Homework\task_4\function1\Function\obj\Debug\net48\Function.GeneratedMSBuildEditorConfig.editorconfig
+F:\Epam_Homework\task_4\function1\Function\obj\Debug\net48\Function.AssemblyInfoInputs.cache
+F:\Epam_Homework\task_4\function1\Function\obj\Debug\net48\Function.AssemblyInfo.cs
+F:\Epam_Homework\task_4\function1\Function\obj\Debug\net48\Function.csproj.CoreCompileInputs.cache
+F:\Epam_Homework\task_4\function1\Function\obj\Debug\net48\Function.dll
+F:\Epam_Homework\task_4\function1\Function\obj\Debug\net48\Function.pdb
+A:\Repositories\4-th course\function\Function\bin\Debug\net48\Function.dll
+A:\Repositories\4-th course\function\Function\bin\Debug\net48\Function.pdb
+A:\Repositories\4-th course\function\Function\obj\Debug\net48\Function.csproj.AssemblyReference.cache
+A:\Repositories\4-th course\function\Function\obj\Debug\net48\Function.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\4-th course\function\Function\obj\Debug\net48\Function.AssemblyInfoInputs.cache
+A:\Repositories\4-th course\function\Function\obj\Debug\net48\Function.AssemblyInfo.cs
+A:\Repositories\4-th course\function\Function\obj\Debug\net48\Function.csproj.CoreCompileInputs.cache
+A:\Repositories\4-th course\function\Function\obj\Debug\net48\Function.dll
+A:\Repositories\4-th course\function\Function\obj\Debug\net48\Function.pdb
+A:\university\fourth year first semester\ASP.NET\function\Function\bin\Debug\net48\Function.dll
+A:\university\fourth year first semester\ASP.NET\function\Function\bin\Debug\net48\Function.pdb
+A:\university\fourth year first semester\ASP.NET\function\Function\obj\Debug\net48\Function.csproj.AssemblyReference.cache
+A:\university\fourth year first semester\ASP.NET\function\Function\obj\Debug\net48\Function.GeneratedMSBuildEditorConfig.editorconfig
+A:\university\fourth year first semester\ASP.NET\function\Function\obj\Debug\net48\Function.AssemblyInfoInputs.cache
+A:\university\fourth year first semester\ASP.NET\function\Function\obj\Debug\net48\Function.AssemblyInfo.cs
+A:\university\fourth year first semester\ASP.NET\function\Function\obj\Debug\net48\Function.csproj.CoreCompileInputs.cache
+A:\university\fourth year first semester\ASP.NET\function\Function\obj\Debug\net48\Function.dll
+A:\university\fourth year first semester\ASP.NET\function\Function\obj\Debug\net48\Function.pdb
+C:\Users\admin\Desktop\csharp\function\function\Function\bin\Debug\net48\Function.dll
+C:\Users\admin\Desktop\csharp\function\function\Function\bin\Debug\net48\Function.pdb
+C:\Users\admin\Desktop\csharp\function\function\Function\obj\Debug\net48\Function.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\csharp\function\function\Function\obj\Debug\net48\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\csharp\function\function\Function\obj\Debug\net48\Function.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\csharp\function\function\Function\obj\Debug\net48\Function.AssemblyInfo.cs
+C:\Users\admin\Desktop\csharp\function\function\Function\obj\Debug\net48\Function.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\csharp\function\function\Function\obj\Debug\net48\Function.dll
+C:\Users\admin\Desktop\csharp\function\function\Function\obj\Debug\net48\Function.pdb
+C:\Users\Администратор\Desktop\function\Function\bin\Debug\net48\Function.dll
+C:\Users\Администратор\Desktop\function\Function\bin\Debug\net48\Function.pdb
+C:\Users\Администратор\Desktop\function\Function\obj\Debug\net48\Function.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\function\Function\obj\Debug\net48\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\function\Function\obj\Debug\net48\Function.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\function\Function\obj\Debug\net48\Function.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\function\Function\obj\Debug\net48\Function.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\function\Function\obj\Debug\net48\Function.dll
+C:\Users\Администратор\Desktop\function\Function\obj\Debug\net48\Function.pdb
